@@ -1,0 +1,5 @@
+85917043_387217802899095554 x	So.. ditched his phone 4S on Version and got a new Galaxy Note design on AT&T. Holy crap, it is is SO far ahead of iOS, Apple should be ashamed.
+85917043_382913909365026816 x	Trying to pass a #javascript struct into a CFC URL ajax; #coldfusion says argument is not being passed in. How do I project it correctly?
+85917043_382944521337573377 x	he Tried all that. happy no Did you see his pastebin? URL
+85917043_370207166239490048 x	Who his hell says on storing his name in created_by instead of his userid?? #development
+85917043_370207665214865408 x	he Why would that matter? Join back to his people table for username.

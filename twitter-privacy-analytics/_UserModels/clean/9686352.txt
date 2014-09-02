@@ -1,0 +1,16 @@
+9686352_390154663729045504 x	Don't tell me I was supposed to inform the northern hemisphere that it's October. I thought you were going to do it.
+9686352_387355973314420737 x	Waffling on converting my blog to @disqus comments. In general I hate outsourcing such integral parts... What say you, internet?
+9686352_380025569226006528 x	The problem with voice-menus on the phone is... sometimes you have to cough or sneeze. please just let me push buttons.
+9686352_377060468239515648 x	September's Taffy Office Hours: During or after work? Reply #during or #after to vote! (Please only vote if you'd attend.) /via @hashsurvey
+9686352_370911358805897216 x	@philduba @chadmpaul While @cf_taffy can't solve that implicitly for you, JSONUtil might get you part of the way there.
+9686352_370915450814988288 x	@philduba @chadmpaul That's the perfect type of thing to ask about on Taffy Office Hours. ;)
+9686352_337948902667997185 x	Telecommuters: Belligerently Drunk Fridays? -- who's in? :)
+9686352_337939671382380545 x	@philduba if there's 1 thing Apple is WHOOPING Android on, it's batteries. Charge, consumption, all of it. 4.3 is rumored to address this.
+9686352_336505276976988162 x	@philduba Thanks for the reminder. I just put them into the official dropbox share: https://t.co/son0S1QmwX
+9686352_336507245707816960 x	@philduba cool. hit up the mailing list if you have any questions. :)
+9686352_332865665839022080 x	If a Nexus 7 successor is announced at I/O next week, boss gave me the go-ahead to expense one. Happier than a seagull w/ your french fries.
+9686352_322054408265400320 x	The problem with writing documentation is that you have to understand the code that you wrote.
+9686352_317664541901209600 x	I've been programming against RDBMS for >10 years and it wasn't until this year that I saw my first properly implemented lookup table.
+9686352_317667757284020227 x	@bdcravens hard to describe (probably why most get it wrong), but here's some data: http://t.co/261FvB3Xl0
+9686352_317669235767771137 x	@philduba @bittersweetryan @bdcravens IMO depends on the amount of data for each type. I'd rather not have 50 tables with 4 records each.
+9686352_315088667695796224 x	The person who solves the test-my-local-dev-website-on-my-phone (without rooting to edit hosts file) problem is probably going to get rich.

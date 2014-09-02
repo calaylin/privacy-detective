@@ -1,0 +1,12 @@
+230606058_392328167056506880 x	@seancorfield haha, you tell 'em.  You'll notice none of my topics so far are actually about ColdBox :)
+230606058_392329631099289602 x	@seancorfield Don't forget my topic of Git workflows and contributing pull requests to open source projects!
+230606058_368230071292928000 x	@capedcoder Trying to use an upgrade license as a full license would be attempting to rip off Adobe. There's a reason it's cheaper.
+230606058_368401906424901632 x	@daccfml @CapedCoder Yes, that's my understanding too.
+230606058_368407119571480576 x	@daccfml @CapedCoder My first question would be who is telling him that he has to transfer his CF9 license?  He _said_ he has to, but my...
+230606058_368408076212506624 x	@philduba @dacCfml @CapedCoder You can enter any valid CF9 license. If the purchaser already owns CF9, then all they need is the CF10 upgrd.
+230606058_347718557083267072 x	@daccfml @webRat Pardon my ignorance, but isn't 0 a valid JSON document? http://t.co/ByHyEjqueZ #serializeJSON(0)# outputs 0
+230606058_347721441858441217 x	@philduba @dacCfml @webRat ... appears to say that the top-level def of a JSON document is an array or object. Something I never knew.
+230606058_347722684278378496 x	@philduba @dacCfml @webRat ... should apparently begin with a { or [.
+230606058_347729439259508736 x	@philduba @dacCfml @webRat Hmm, the ECMA spec does seem to be a bit more liberal with what it allows.  (Page 215 of the PDF, 203 of the doc)
+230606058_347724497522155520 x	@daccfml @philduba @webRat How I wish I could just crack open the code sometimes.  (Do it to Railo all the time :)
+230606058_347726738970771459 x	@philduba @dacCfml @webRat de("a") would probably achieve the same end.

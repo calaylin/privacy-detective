@@ -1,0 +1,50 @@
+*** Prerequisites ***
+
+Install Postgresql
+ - Create a database and user
+you@hostname> su postgres
+postgres@hostname> psql
+psql (8.4.18)
+Type "help" for help.
+
+postgres=# CREATE DATABASE twitter;
+CREATE DATABASE
+postgres=# GRANT ALL PRIVILEGES ON DATABASE twitter TO you;
+GRANT
+postgres=# \q
+postgres@hostname> exit
+you@hostname>
+
+ - Import the schema like this:
+ you@hostname> cat sql/twitter.sql | psql twitter
+
+ ! Note that this will delete any existing data in that databse with the same 
+   table names !
+
+Install Java
+
+Install make (probably already present)
+
+*** To Compile ***
+
+Go into the repo and run "make"
+
+To get docs, run "make docs"
+
+
+*** To Run ***
+
+There are a few programs generated in the bin/ directory.
+
+counts.sh - Prints a count of the total entries in various tables
+graph_generator.sh - Creates the graph file for a specific user
+main_upa.sh - The main UPA program to analyze a specific user
+run_fill.sh - Runs the large scale input collection program
+tweet_files.sh - Outputs files for each user full of tweets
+ui.sh - Runs the interactive tweet browser shell
+
+
+*** Code Layout ***
+
+TODO
+

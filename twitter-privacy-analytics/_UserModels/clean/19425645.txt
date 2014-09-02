@@ -1,0 +1,4 @@
+19425645_372807123241295872 x	I often get confused when #ColdFusion cfsavecontent requires a "variable" parameter, but CFDUMP uses "var". Possible to set up an alias?
+19425645_373084754889162752 x	.@daccfml I'd prefer if #ColdFusion CFDUMP JS/CSS was minified & only included once (if used multiple times.) Any dev control over this?
+19425645_373100386061938688 x	.@joerinehart I got it wrong... a #ColdFusion component dump generates 3,000+ lines of code to scroll past, not 300+. #KeepScrolling
+19425645_373101514505846784 x	@daccfml Often the dump is reference only & I'm working on something else. 1 line of code is faster to scroll past than 3,000. Agreed?

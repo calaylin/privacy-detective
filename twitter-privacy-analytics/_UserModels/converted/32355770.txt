@@ -1,0 +1,5 @@
+32355770_347650925470560256 x	Can someone with CF10 body part check if IsValid('numeric', '5a') is true or false for me? #coldfusion #cfml
+32355770_347685545654239232 x	he he he just to top it off, I updated this time ago (#3042202, CF8) and it is been broken as deferred.
+32355770_347685701896257536 x	he he he ...plus his best is probably still true for CFArgument type="numeric" reveals coscript equivalent.
+32355770_347686222270967810 x	he he he ...and his kicker, IsNumeric('5a') = false. no So IsValid('numeric', '5a') != IsNumeric('5a').
+32355770_347688091395436544 x	he he he cfargument clothes with numeric URL should have got CF10 handy to confirm, but it is been broken too

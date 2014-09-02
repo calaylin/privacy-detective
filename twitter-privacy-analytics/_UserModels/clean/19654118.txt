@@ -1,0 +1,2 @@
+19654118_365283198894223360 x	@seancorfield @dacCfml @meta_alex @fymd many suggested moving to railo, but for some reason they love the Adobe support that they never use.
+19654118_364404181303435264 x	developing on #ColdFusion 10 and pushing to a CF8 server causes sweet issues, such as CF8 not reading {} when passed to a function

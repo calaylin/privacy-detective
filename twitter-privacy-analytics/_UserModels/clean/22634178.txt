@@ -1,0 +1,1 @@
+22634178_317668540792598529 x	@adamtuttle @bdcravens Having to rely on a string to categorize the type looks brittle to me. I'd make that a lookup table too.

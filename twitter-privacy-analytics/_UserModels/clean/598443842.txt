@@ -1,0 +1,2 @@
+598443842_396240154249408513 x	@WxTrackerDaryl We are currently having some connection issues. We apologize for the inconvenience.
+598443842_396282057665413120 x	@WxTrackerDaryl Its actually the Mead Transmitter (162.475MHz) that is down, but the Denver Transmitter (162.55MHz) is functioning.

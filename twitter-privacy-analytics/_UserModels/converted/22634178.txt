@@ -1,0 +1,1 @@
+22634178_317668540792598529 x	he he Having to emphasis on a string to leave his type looks brittle to me. I'd make that a lookup table too.

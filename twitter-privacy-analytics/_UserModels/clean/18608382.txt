@@ -1,0 +1,2 @@
+18608382_387291017625366528 x	Toying with the idea of building a new webapp w/ thick JS & CF-powered RESTful API.  Any pointers? best practices?pitfalls? Thx! #coldfusion
+18608382_387314748485668864 x	@philduba I was thinking of trying CF10's. Have you tried making pure JS app with Restful API?  How did it go?

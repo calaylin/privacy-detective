@@ -1,0 +1,6 @@
+16311301_373438761818140672 x	i hate how php people assume you are using php too.
+16311301_373445379549069312 x	@philduba current example: "blah blah apple push messaging...and here is the php you'd run on your server".
+16311301_370907143001894913 x	@philduba i'm constantly explaining to the non CF guys why when they use remoteformat=json on my remote cfc this returns inconsistently.
+16311301_370910009250840577 x	@philduba I'm a little late in the game to add this to my big project but i've used this before with better success: http://t.co/1L1On5dc1V
+16311301_370910732415926272 x	@philduba @AdamTuttle @cf_taffy if only there was an opportunity to do that in say..um.. 51 minutes?  lol
+16311301_319864794628907008 x	its amazing how fast you go from yay homeowners to ugh homeowners.

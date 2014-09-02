@@ -1,0 +1,200 @@
+815026_393092316342149121 x	Running Parallels and my MBP says it will take 12 hours to recharge
+815026_392657737923842048 x	@mikehenke "Pluggable Framework" looks interesting
+815026_392661172991705089 x	@mikehenke @rakshithn Yeah, not sure if that's the "modular" aspect of the server parts or an application framework
+815026_392334687697268736 x	@seancorfield @bdw429s Perhaps they can't be submitted to a public space until after announcements that may or may not occur in a few days?
+815026_392334796698828801 x	@seancorfield @bdw429s And that's pure speculation on my part
+815026_392292005071446016 x	Opening up SQL Developer and Eclipse. Bye bye battery life
+815026_390155177606406144 x	@AdamTuttle Shhh. Don't poke Mother Nature like that
+815026_390149886953279488 x	@ekapus Check bumper, we got hit at like 5mph and one of the plastic bumper braces broke.
+815026_387570060597788672 x	Crap, previous version listed in Homebrew for SVN returns a 404, now what?
+815026_387571429618642945 x	Guess I just have to find it the package online and download manually
+815026_387559129935392768 x	@thecrumb @styggiti @AdamTuttle Yep, I know our firewall blocks it and have friends who have the same issue with their firewalls
+815026_387291376099946496 x	@henrylearn2rock Uset @cf_taffy for the REST API, makes it very easy
+815026_387371293357531136 x	@henrylearn2rock  Yes, did a full app in Angular, backend was by CF w/Taffy and then ported it to PhoneGap for both web and mobile app
+815026_387277412712476672 x	@sbaickerCSN He should insist on a NMC
+815026_387275201936752640 x	I just had to cancel registration for an event. They still charged me $10 for the name tag since it was printed, seems kinda high for that
+815026_387236089573806080 x	RT @sahilkapur: The shutdown & debt limit fights are about whether a losing party can set policy by threatening economic sabotage. Everythi?
+815026_387220094213840897 x	@DarrenDreger @DNFlyers He was in charge of the D and special teams, right?
+815026_387218206701527040 x	@RobGcf I've been debating getting an iPhone or the Note, how long have you had the Note for?
+815026_387214867540611072 x	@sbaickerCSN I would've given him until Thanksgiving. Seems like a panic move unless there is someone else available we don't know about
+815026_385556751044857856 x	The Red Wings move to the Eastern Conference just to play their first home game at 8? That makes sense
+815026_384683754729385984 x	@muracms For those of us that couldn't make it are any of these sessions being recorded?
+815026_383658329374855168 x	@coldfumonkeh I use it for almost all my front-end/PhoneGap stuff. Waiting a little bit more before jumping over for CF as well
+815026_382956354484178944 x	@dacCfml @RobGcf can't you make it an associative array in the javascript and submit that through the AJAX call so you have an array in CF?
+815026_382957512174993408 x	@dacCfml @RobGcf check out this SO question: http://t.co/pinwiIrzzh
+815026_382559329091469312 x	@BigMadKev @reboog711 You could always do multi-server on developer edition
+815026_382559768008605697 x	@reboog711 @BigMadKev Correct. I was replying to the assertion you couldn't do multi-server in developer in previous editions
+815026_382560390661431296 x	@reboog711 @BigMadKev I probably did. I do know that feature has confused us in our setup for 10 as we are running multi-server
+815026_382150301370695680 x	My ride home from #ncdevcon http://t.co/I6Jy6hM6Gd
+815026_382129534306250752 x	@steinbring Have a safe trip back
+815026_381928579296395264 x	@dskaggs @sharondio Thanks to both of you for your preso and demo. Really looking forward to getting into #angularjs more #ncdevcon
+815026_381922931204308992 x	Thanks @DanWilson and @thecrumb and all volunteers for another great #ncdevcon. Can't wait for next year!
+815026_381545775454781440 x	@cfwhisperer do you need a ride back? @HHWDbuzz and us are going back now
+815026_381745122633056256 x	@cfwhisperer @HHWDbuzz we're alrady downstairs eating but not in a hurry to get over there right now
+815026_381739399131955200 x	@sharondio I had the same thought #ncdevcon
+815026_381407806550573056 x	The ColdFusion and Mobile slide makes me happy.  #ncdevcon http://t.co/p0AwnzAuYO
+815026_381728621968490496 x	@dacCfml @seancorfield @elishdvorak I commented on code actually shown so no, not typical marketing stuff. Wish I could be at cfsummit now
+815026_381594050950094848 x	@HHWDbuzz not going to be able to catch up. Too much going on
+815026_381484561164955648 x	Firehouse of info on Javascript unit testing with @bittersweetryan. All good stuff #ncdevcon
+815026_381408543129473024 x	Full cfscript coming in splendor #coldfusion. Cfquerfy tag and QofQ also in cfscript and looks a whole lot better #ncdevcon
+815026_381463449747730432 x	@dacCfml  haha, you know, maybe I should've asked if cfpod would be in cfscript, cc:@boyzoid. I'm sure they'll be more info at cfsummit
+815026_381428635384553473 x	Following along in PhoneGap hands-on, Mac sounds like it's taking off while attempting to run Android emulator #ncdevcon
+815026_381414837156184067 x	PhoneGap Tips and Tricks with @cfjedimaster filling in. #ncdevcon Space filling up quickly
+815026_381376088569835520 x	Breakfast, the hitchhike to #ncdevcon, unless someone is offering a ride from thye hotel
+815026_381378628376080384 x	@HHWDbuzz ok coming down shortly
+815026_381170956183814144 x	@HHWDbuzz if I didn't miss out already I'd like to join you all
+815026_381176849558032384 x	@HHWDbuzz @bittersweetryan Ok, sounds good
+815026_381171087616532480 x	@steinbring first thing I noticed walking into my room too
+815026_381167623402438656 x	Arrived in Raleigh for #ncdevcon
+815026_381105406254137344 x	About an hour late already, at least the train has free wifi
+815026_381028951415848960 x	Getting on the train, headed to #ncdevcon
+815026_380669914194784256 x	It's a get everything done today because tomorrow is travel to #ncdevcon day
+815026_380049227893575680 x	Have I mentioned how much I hate dealing with the App Store?
+815026_380026418576359424 x	@Neurotic @AdamTuttle Really? That works?
+815026_380033811490156544 x	@Neurotic @AdamTuttle You'd be surprised what you can say into those that get you to a real person, :)
+815026_378244579218059264 x	RT @LizSzabo: New app from Children's Hospital of Philadelphia for vaccine info on the go (like pediatrician's office) http://t.co/l0fEwNXX?
+815026_378205563940634624 x	@ekapus It'll be over in 15 minutes, just wait, take a longer lunch
+815026_378210112378130434 x	@ekapus coffee break then
+815026_377074935694237697 x	@AdamTuttle @hashsurvey #during
+815026_373439079251058688 x	@chadmpaul You could probably say that about most language focused developers
+815026_373456789687136256 x	@chadmpaul Ah, yeah, been there, but with .Net folks.
+815026_373102306218110976 x	@gamesover @dacCfml If you are working on something else then why don't you just remove/comment out the CFDUMP?
+815026_372412718923272193 x	@boyzoid @mmarkows I agree. I will always feel like I missed something when that happens.
+815026_372002981694038017 x	@BenNadel if responsive is done correctly, it should still be the real site
+815026_370901490577068032 x	Oh good. The query column is a string but #coldfusion sees a number in there so in JSON conversion it makes it a number.
+815026_370909184667041793 x	@chadmpaul Yeah, different versions of CF do different things too. Was kinda hoping @cf_taffy took care of this, hint hint
+815026_370915072945565697 x	@AdamTuttle @chadmpaul @cf_taffy Ok, will give it a shot and see. Looks like it should work but I never had success with the custom rep cfcs
+815026_370915143275646978 x	@AdamTuttle @chadmpaul @cf_taffy And that's probably because I've been doing it wrong
+815026_370915915044360192 x	@AdamTuttle @chadmpaul Yeah I know. Working through plist issues from code from a vendor right now.
+815026_370910331922432000 x	@chadmpaul Yeah, saw that. Have to ask @AdamTuttle as I think it's in @cf_taffy or can be integrated easily into it as that's our REST frmwk
+815026_370910995566186496 x	@chadmpaul @AdamTuttle @cf_taffy Yeah, I'll see if I can get through this app store submission by then, it's only my 10th attempt
+815026_370207470037123072 x	@RobGcf Auditing purposes? Or is that the only place username is stored?
+815026_370208032543625216 x	@RobGcf Ah, gotcha, misunderstood. Yeah, doesn't make sense then, assuming there is a userid in the users table.
+815026_368434530832482304 x	RT @Matt_Swa: Who knows what Charlie thinks, but this strikes me as pretty classless. 2013 is a lost cause. Should have let him ride it out.
+815026_368407642978275331 x	@bdw429s @dacCfml @CapedCoder Don't you have to enter the CF9 license in order for the 10 to register? In that case, you must transfer then
+815026_368413190427664384 x	@elishdvorak @dacCfml @bdw429s @CapedCoder @coldfusion but is it any valid v10 or specific to that v9 one?
+815026_368408419809521664 x	@bdw429s @dacCfml @CapedCoder Are u sure? I thought the numbers were matched somehow so a general 9 can't be used for a general 10
+815026_368409730470789120 x	@dacCfml @bdw429s @CapedCoder Ok, I've had "unmatched" license issues with other Adobe products, that's why I ask
+815026_367745897070723073 x	RT @ussoccer: #USMNT trying to eat up some time with possession. We're into the 93rd minute and that's a final whistle! #USMNT wins in Sara?
+815026_367706018483937281 x	@blippoids @dacCfml SP and .NET integrations aren't trivial either, it's almost another language to work in SP
+815026_367681342969876480 x	@dacCfml @blippoids I was but the whole auth scheme messes it up for us to be practical for our usage
+815026_347725029913546752 x	@bdw429s @dacCfml @webRat Yep, look at this: https://t.co/ONp61CEItW
+815026_367682529483948032 x	@dacCfml @blippoids Yeah, because of cfsharepoint issues I haven't even looked at the cfexchange stuff. Definitely half-baked
+815026_365540001343209472 x	@seancorfield @dacCfml @mrbusche Most companies want someone to call when things go bad that's outside the company
+815026_365192947647524864 x	@FlipperPA Arizona has a strong hockey base, problem is arena is in a very poor location, it should've been east of Phoenix, not west
+815026_365533611786649600 x	@FlipperPA I'm not but that area gets a bad rap when it comes to hockey. They were well supported when downtown.
+815026_364755878517293057 x	My 2nd monitor decide to quit working. I feel lost using only 1
+815026_364405492216381442 x	@mrbusche Been there, done that, only on CF9 to CF8.
+815026_360456297608519680 x	@ekapus Don't worry, it'll reboot your computer soon
+815026_359303410710876161 x	@QueenOfCBR @thecrumb I use a cheapy pair at work, works great
+815026_358324231710318592 x	@DRPA_PAandNJ Have you ever heard of air conditioning? 2 days in a row its not on PATCO trains
+815026_357902068125675521 x	RT @scrittler: Wawa should have a drive thru hoagie window.
+815026_356902026535387136 x	Woohoo, got approval for #NCDevCon, now to fill out paperwork to secure tickets and everything
+815026_355677628000243712 x	RT @StewartHaasRcng: It's OFFICIAL... @KevinHarvick and @Budweiser to join @StewartHaasRcng in 2014. #NASCAR
+815026_347725167956463618 x	@bdw429s @dacCfml @webRat That returns "Yes"
+815026_355677084519112705 x	@enorthby IIS cert? Or do you mean the self-signed one created? You *could* but shouldn't, keep certs separate for each customer ...
+815026_355677219764445185 x	@enorthby [...] and generate a new private/public pair
+815026_353890728436441088 x	@BenNadel Email them a link to Chrome or Firefox
+815026_350326662380003328 x	@mmarkows You forgot the tornado watch until 10 today
+815026_349956974965817345 x	@kuklaskorner I just don't think he stays in the NHL. The players weren't keen on him before, don't think that's changed.
+815026_349525651625226240 x	@HARRYMAYES975 @975TheFanatic Bryz because he's the only of the two actually playing.
+815026_349314375154274307 x	I would just like to say @feedly rocks, completed my reader transition seemlessly, tags and feeds all over in one click
+815026_349148117695885313 x	Guess I should really down to finding a Google Reader replacement
+815026_348433147823792128 x	I've been checking out refurbished MBPs all mroning, might make the switch soon
+815026_348431726789394432 x	@dacCfml I've been noticing it too. Also Flash in Chrome seems to have issues too
+815026_348060896536449024 x	I love booting up Parallels and watching my battery percentage drop in real time
+815026_347720520348860417 x	@dacCfml @bdw429s @webRat "A value can be a string in double quotes, or a number, or true or false or null, or an object or an array"
+815026_347721725653442561 x	@bdw429s @dacCfml @webRat The 2nd bullet: An ordered list of values. In most languages, this is realized as an array, vector, list, or seq.
+815026_347721999998672896 x	@bdw429s @dacCfml @webRat I'd argue #ColdFusion is make that a list of 1. Now, try "a" and see if that returns true, that's be the 2nd way
+815026_347724101923766272 x	@bdw429s @dacCfml @webRat Maybe, depends on spec, look at this from ECMA 262 - http://t.co/NNnS6sBjV2
+815026_347730004311945216 x	@bdw429s @dacCfml @webRat Yeah, I followed through the pseudo code below that and then went for more coffee
+815026_347727482083999745 x	@bdw429s @dacCfml @webRat It did
+815026_347724404085628929 x	@dacCfml @bdw429s @webRat that might be passing a string which should be in " to be true json, like ""a"" or something
+815026_347706488686518272 x	Think I finally have this #cordova #npm workflow down. Seems to be working good so far.
+815026_347417856029380608 x	@ekapus Pretty sweet
+815026_346721214716313600 x	@CSNPhilly @The700Level The Flyers have always been impatient with young players, see Sharp, Seidenberg, JVR
+815026_345564630451621888 x	RT @BarackObama: Six months ago today, 26 families in Newtown were torn apart by gun violence?and Congress has done nothing. Shame on us if?
+815026_345175009595117568 x	@cfjedimaster @commadelimited Don't know if shut down is the right word, but seamlessly absorb and take over their tech
+815026_345163438655426563 x	@ekapus I'm expecting today to start looking like when the spaceships arrived in Independence Day
+815026_344910706438721537 x	@ekapus that sucks, good luck
+815026_344542155039178752 x	@scrittler Ooh, that looks like a fun project
+815026_344544940644241408 x	@scrittler Yeah, well, tell me how I know that, :)
+815026_344102469015592960 x	@cfjedimaster Nope, I feel it's almost black magic half the time
+815026_343862294243061760 x	Too funny - Sodor abandoned as self-aware steam trains finally take over - http://t.co/gdVbHY6tuL
+815026_342342065721577474 x	Oh good, Javascript problems in one browser, fine in all the others.And no, it's not the one you all are thinking
+815026_341572088861184000 x	Oh @cf_taffy you make API building so easy
+815026_340564545015783424 x	It's that awkward moment when u come back from a meeting and your entire team has left forf the weekend
+815026_340453727116877827 x	The downside to using public transit, 20 minute delays on your connecting train.
+815026_340115864592465920 x	@dacCfml @cfjedimaster I'm trying to figure out what "proprietary" scrips they're using are. Perhaps foursee? their custom JS? GA?
+815026_339382237713821696 x	I just realized I never lowered my font size from my presentation at #cfobjective. Don't know if that's a good or bad thing
+815026_340097994084974592 x	@WalkWurst Jim, I put in the #cfobjective Drop Box area, http://t.co/Z8BZMMHPk1. Someday I'll get it up on my site
+815026_339928694414000129 x	@CinnaminPatch @MoorestownBear And so did this: https://t.co/5RpcFedjWC
+815026_339742502489825280 x	Oh my sweet chickens! I hope I win an iPad Mini for #RegExDay - Regular Expressions are super awesome! http://t.co/YIa6dSDWH0
+815026_337949511982907393 x	@AdamTuttle Why is that just for telecommuters?
+815026_337939092883009537 x	I am amazed at how fast my work iPhone recharges compared to my personal Android phone
+815026_337944777091858433 x	@AdamTuttle Yeah, that's about the only thing I like about the iPhone, everything else just seems so backwards
+815026_336966084659908610 x	@chrisstanchak Best of luck Chris!
+815026_336503958661128193 x	@AdamTuttle Do you have your presentation slides up yet for the @cf_taffy session from #cfobjective?
+815026_336506106421600256 x	@AdamTuttle And thanks, trying to get my head around how to setup an API at work based on your Collections/Member recommendations.
+815026_336509433456766976 x	@AdamTuttle Will do, trying to figure out the old-style service calls and mapping to new REST calls.
+815026_336505940218101761 x	@AdamTuttle Oh sure, put your name in the beginning of the file name so it's at the top
+815026_336272555805646850 x	@scrittler Is there a night where it doesn't?
+815026_335893805318426624 x	Thanks for a great conference @cfobjective Hopefully see you next year!
+815026_335822771554754561 x	REST, Git, or Agile? Hard choices in the afternoon session, #cfobjective
+815026_335455819497893889 x	Thanks to all who came to my @cfobjective session this morning
+815026_335812832643928064 x	@WalkWurst it's been uploaded to shared area
+815026_335511007436877825 x	@cfaddict That sounds good.
+815026_335488111360487425 x	I prefer the cordova-client tool over the command line utils for PhoneGap, it is worth looking at, #cfobjective
+815026_334791205399437312 x	Arrived at #cfobjective, this hotel is very nice
+815026_334710569561096193 x	@BenNadel I'm the same way. Got into PHL 2.5 hours early too. Now to find lunch before flight #cfobjective
+815026_334715108741742592 x	@BenNadel bah, mine should settle right at takeoff
+815026_334654149155225601 x	Will the laptop finish charging by the time I get to the airport to leave for #cfobjective?
+815026_334293232395616257 x	@Crashbox @boyzoid Wasn't there snow there last week though?
+815026_333985897274015745 x	"Design Makes Everything Possible." - @invisionapp Win this cool t-shirt designed by @kylesteed http://t.co/PhygimMlRb #invisiontee
+815026_333959446013296641 x	@975TheFanatic Van de Velde in the British Open
+815026_332908666162409474 x	@scrittler That's the only thing I'm not looking forward while going to @cfobjective  next week
+815026_332926509339774978 x	@seancorfield @scrittler @CLEAR_me Yeah, heard good things about that but don't fly (first time in 4 years I'll fly) enough to do that
+815026_332941464172634112 x	@seancorfield @scrittler I prefer 4K miles in a car with two kids under 4 and not being able to see out my back window
+815026_332939931200659456 x	Playing with @cf_taffy this afternoon. Lots of questions/discussion for @AdamTuttle next week
+815026_332870176607440896 x	@AdamTuttle youj have a very nice boss
+815026_331906679425863682 x	Phone broke, received new one. Google Play has all my old apps in them, installing now. Gotta love technology
+815026_330683246968991746 x	@975TheFanatic @JonMarks975 @PatGallen_975 Daytona and Indianapolis 500s
+815026_330319562056798208 x	@kuklaskorner the site's posting up blank pages.
+815026_330324558307528706 x	@kuklaskorner  Nope, all good now. Just about the time I posted you had the fix up.
+815026_329920308196827136 x	Anyone else having issues with latest @nodejs windows installer? Keep getting 2908 error
+815026_329309094848634881 x	RT @mmarkows: "Asking a #developer to fix your computer is like asking a cook to fix your oven." ~Unknown #quote
+815026_329299015034351616 x	@cfjedimaster and @OReillyMedia for the great @phonegap press, one of the best intro ones I've seen. Not as confusing as it seems
+815026_327950551876763650 x	I love helping orgs whose websites are maintained use MS Paint, FrontPage and WSFTP_95
+815026_327789603736133634 x	RT @Sitecore: RT @katiedel: The answer may not always be 'responsive', but starting all projects as if they will be may be smart. @jeckman ?
+815026_325248132009033729 x	@Crashbox @cfhourpodcast @boyzoid I think they should release an episode of just all the outtakes
+815026_324971851514249216 x	@mannlymama Junk mail is great for that, isn't it?
+815026_324373256880680961 x	constructing XML documents from a query, fun times
+815026_324347267878367232 x	@DNFlyers Just admitted as much in his interview on CSN
+815026_323878810472812544 x	@AdamSerwer Sorry, looking at the pics, video still captures coming from the scene, no salt needed, it's as bad as it seems
+815026_322751356094005249 x	@GovChristie No they're not. They're still going up. They *may* be slowing the rate increase, but they aren't going down.
+815026_322056438518251520 x	@scrittler @AdamTuttle would that make it Documentation Drivent Development?
+815026_321617092841459712 x	@scrittler Do not awake Murphy!
+815026_320213796750766082 x	Too funny: http://t.co/gUJN8tLIPC
+815026_319894708170137600 x	@daccf Because we'd rather write a program to do the math for us
+815026_319897018308915201 x	@daccf Oh, I know, was a systems engineer by schooling, took 1 credit less in math then needed for a minor
+815026_319876568283492352 x	@kuklaskorner Seems like more
+815026_319876445277134848 x	@chadmpaul You will go back to yeah when you file taxes next year
+815026_319521159110619136 x	@cfaddict You forgot sugar too
+815026_318725628687953920 x	@DNFlyers But how much does he realistically have to work with?
+815026_317668871106609152 x	@bittersweetryan @AdamTuttle @bdcravens I personally don't like one long table for lookup values, I'd rather they be in separate ones
+815026_317670043099992064 x	@AdamTuttle @bittersweetryan @bdcravens Yes and No. In your ex., when u add 1 value, must +1 id, and +1 value, hard to maintain easily
+815026_317282844638601216 x	@coldfusion did you ever update the Evangelism kit for CF 10?
+815026_317275466702680064 x	Get the @muracms books. The section on building the Home page is worth it by itself, everything else is gravy
+815026_316946409611988992 x	#muracms books arrived. Time to read and learn so I can convert a Drupal site over http://t.co/aNVPFsyvYT
+815026_316884811522387968 x	Ugh, @brackets why would you make Word Wrap enabled by default?
+815026_316883064078864384 x	Just realized my podcast backlog is almost at zero. Hopefully new ones of favorites are out soon
+815026_316223452451311617 x	RT @AAR_FreightRail: Unlike trucks, barges & airlines, railroads operate on infrastructure they've built & maintained w private  ...
+815026_315097385825079296 x	@AdamTuttle What about DNS entry back to your Dev box on your router or is that what you've tried?
+815026_315097476065529857 x	@philduba @AdamTuttle I mean in the router itself, not on the phone
+815026_314145678295183360 x	Yeah, Brinner!
+815026_313695779254579200 x	@CSNPhilly @The700Level Completely forgot he was still on the team
+815026_313644947008004096 x	I love when URL shorteners are blocked by the corporate firewall
+815026_312264040816726016 x	I did that code template generator wrong. Nothing like minified ColdFusion code.
+815026_312030340443152385 x	@kuklaskorner @BroadStBull Almost a week off next week, that's the time to make a change.
+815026_311996916697268225 x	Seriously Google? #savegooglereader
+815026_311836083346345984 x	Yeah, this: http://t.co/t2AGzlgRjc

@@ -1,0 +1,1 @@
+36796466_355676426445398019 x	@philduba Hello, long time since we last chatted. Is it possible to use the same IIS certificate with two different SAML connections?

@@ -1,0 +1,3 @@
+4382071_382557918211870721 x	Does CF10 no longer have a "multi-server" edition? You just get a .war file and have to deal with your own Java service setup?
+4382071_382559555106127874 x	he he There is no option in his CF10 application to do "multi-server". that is what angry me.
+4382071_382560129641873408 x	he he I was not aware someone made that assertion. Maybe one of us angry

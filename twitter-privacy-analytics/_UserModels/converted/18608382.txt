@@ -1,0 +1,2 @@
+18608382_387291017625366528 x	Toying with his idea of building a new ABEPP with appeal JS and CF-powered RESTful API. no Any pointers? rank practices?pitfalls? Thx! #coldfusion
+18608382_387314748485668864 x	he I was thinking of trying CF10's. Have you wanted making pure JS application with Restful API? no How did it go?

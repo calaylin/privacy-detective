@@ -1,0 +1,5 @@
+26186053_254065655597395969 x	4th #VS2012 crash in 10 minutes.  It appears it doesn't like Database Projects.
+26186053_236300446921281537 x	Some things about Windows 8 just aren't right.  Why the f**k are there TWO different proxy server settings, one for desktop, one for Metro
+26186053_230796650073976832 x	Can someone just leak #VS2012 already please.
+26186053_212516487422947330 x	Yes I know you can press Win+C, but remember, how do you access the settings panel for EACH running app, you need to press WIn+C phalease
+26186053_149016897281728512 x	PROTECTED

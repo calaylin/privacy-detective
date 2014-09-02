@@ -1,0 +1,44 @@
+634555318_382953815173251072 x	@RobGcf Rob, I've not forgotten you. Looked @ the code, currently scratching my head and cooking dinner. Well: eating dinner now.
+634555318_382955026735722496 x	@RobGcf do me a favour? Change the type=struct to type=any, and then just <cflog file="rob" text="#serializeJson(arguments)#"> inside method
+634555318_381461050123907072 x	@philduba does it yet sound better than the mobile equivalent of <cfform>? #ColdFusion
+634555318_381705821790674944 x	@seancorfield @philduba well it's Adobe, presenting at a conference. What do you expect? (@elishdvorak @ #sotr13 excepted)
+634555318_381460807424679936 x	@philduba cool! Can't wait to do <cflayout> in CFScript! ;-) (cc@boyzoid)
+634555318_372843060004405248 x	@gamesover I can't help but think the easiest way here is just to learn & remember the tools of your trade properly. But if I was being...
+634555318_372843561009827840 x	@gamesover ... charitable I'd point out CFDUMP is just a custom tag and you could override it with your own is you wanted to. Makes...
+634555318_373100919409606656 x	@gamesover @joerinehart you could just do a browser-find on something in the dump. You're inventing work you don't need to do.
+634555318_368264237183160320 x	@bdw429s @CapedCoder Brad: the responsibility of having a valid licence to install atop of is person's buying the licence; not the vendor.
+634555318_368403086332940288 x	@bdw429s @CapedCoder in this case, Seth is the vendor. So he shouldn't have to transfer his CF9 licence just to be able to sell his CF10 one
+634555318_368408243556855808 x	@philduba @bdw429s @CapedCoder no, Seth might be going back to CF9; and the person buying the CF10 lic. might already have their own CF9
+634555318_368408385194307584 x	@philduba @bdw429s @CapedCoder so (*logically*) no need for Seth to have to mess with his CF9 licence. @ColdFusion, Rakshith: what say you?
+634555318_368411182430158848 x	@elishdvorak @philduba @bdw429s @CapedCoder @ColdFusion is that because having removed the CF10 serial number, CF needs something to put...
+634555318_368411294812356608 x	@elishdvorak @philduba @bdw429s @CapedCoder @ColdFusion ... back in its place?
+634555318_368409330858881024 x	@philduba @bdw429s @CapedCoder not 100% certain, but about 99.5%.
+634555318_367680859325087744 x	@blippoids @philduba Saw your comments about SharePoint integration against the NTLM bug. You thinking of using <cfsharepoint>? #ColdFusion
+634555318_367681962385088512 x	@philduba @blippoids I had a wee look at it back when it was first released, and the NTLM stuff aside (which is a showstopper anyhow) [...]
+634555318_367682115791773696 x	@philduba @blippoids [...] I seem to recall it being a bit closer to "proof of concept" than "production ready". Not as bad as the [...]
+634555318_367682328824672256 x	@philduba @blippoids [...] <cfexchange> stuff in #ColdFusion 9 (improved but not there yet in CF10), but I'd still tread cautiously.
+634555318_365218352090058752 x	@meta_alex I know what you mean, Alex, but I just get so frustrated with the poor levels of community engagement from Adobe, and [...]
+634555318_365218771956277248 x	@meta_alex [...] completely obvious easy wins like #cflive being apparently so *unobvious* to them just makes me feel sad for #ColdFusion
+634555318_365218968266481664 x	@meta_alex I guess it's because I've seen how engaging the #Railo guys are, and is so damned disappointing that the Adobe equivalents[...]
+634555318_365219154334199810 x	@meta_alex just don't bother. despite there being no reason for them *not to*. At the end of the day I've invested 12yrs of my career in...
+634555318_365219438447960065 x	@meta_alex ... #Coldfusion, & to see it so poorly handled is just depressing. I still kinda will it to succeed, for some reason. Masochism?
+634555318_365225278458433538 x	@fymd @meta_alex Andy in this - the 2nd decade of the 21st century - is there still an enclave of IT purse-string-holders out there who[...]
+634555318_365225564044410880 x	@fymd @meta_alex [...] who make significant purchasing decisions without consulting their senior technicians? Who *won't* be at all [...]
+634555318_365225732080812032 x	@fymd @meta_alex [...] impressed with Adobe's lack of community participation. Anecdote != data, but in all my years I've never [...]
+634555318_365225904009515011 x	@fymd @meta_alex [...] encountered this. Is it not a myth? Are Adobe not marketing to a conceptual audience who no-longer exist?
+634555318_365230085441208321 x	@meta_alex @fymd see that's what I would have expected to be the case. Maybe we (you & me, Alex) are too commonwealth-centric in [...]
+634555318_365230270087053312 x	@meta_alex [...] our exposure, and the States is full of empty suits with cheque books? Maybe it's a business culture thing?
+634555318_365359026814468096 x	@seancorfield @mrbusche I've had a conversation with someone along those lines. They regarded @Adobe's potential support as a criterion...
+634555318_365362928653836288 x	@seancorfield @mrbusche ... despite a) never having needed it; b) knowing it's a bit shit anyhow; c) #Railo do it better.
+634555318_348344229799542784 x	Am finding #Chrome is really beginning to struggle with some pages' JavaScript; freezing up the entire PC whilst it processes it. Just me?
+634555318_347658440526667776 x	@cfJquery @misterdai believe it or not, #ColdFusion interprets that as "5am", which can be cast to a numeric (0.208333333332). #FFS
+634555318_347658691266359296 x	@cfJquery @misterdai #Railo gets it right. How can @adobe f***-up such obvious, simple things like "is 5a a number?" NO IT BLOODY ISN'T
+634555318_347686798224404480 x	@misterdai @cfJquery @Adobe someone should introduce the #ColdFusion team's left hand to their right hand.
+634555318_347700103022256128 x	"isValid(). Groan" ( http://t.co/PlhfZT6eof ) cc: @misterdai @cfJquery
+634555318_347704044892069889 x	@webRat to answer your question: YES. You CAN piss me off even more, as it turns out. Yer joking, right?! (and I know yer not: I tested it)
+634555318_347719244097654786 x	@bdw429s @webRat no it's not. Reading: http://t.co/dA28tUuUd5; Validation: http://t.co/wIqR220PDX.
+634555318_347719799670976512 x	@bdw429s @webRat JSON can represent objects {} and arrays []. Not simple values.
+634555318_347723020988731392 x	@bdw429s @philduba @webRat wow: isJson(0) is true; isJson("a") is false. WTF?
+634555318_340114000069148673 x	@cfjedimaster sorry, anything that cites Richard Stallman as someone to pay attention to hasn't got any credibility.
+634555318_319878889956589569 x	How is it so many computer programmers don't know basic maths?
+634555318_319896659653971968 x	@philduba yeah, the only problem with that inappropriately optimistic defence of ignorance is that one needs to know HOW to do that ;-)

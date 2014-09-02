@@ -1,0 +1,44 @@
+634555318_382953815173251072 x	he Rob, I've not taken you. Looked @ his code, currently scratching my body part and eating dinner. Well: eating meal now.
+634555318_382955026735722496 x	he do me a favour? Change his type=struct to type=any, and then just <cflog file="rob" text="#serializeJson(arguments)#"> outside project
+634555318_381461050123907072 x	he does it yet sound better than his mobile equivalent of <cfform>? #ColdFusion
+634555318_381705821790674944 x	he he well it is Adobe, learning at a conference. What do you expect? he @ #sotr13 excepted)
+634555318_381460807424679936 x	he cool! Can't wait to do <cflayout> in CFScript! wink (cc@boyzoid)
+634555318_372843060004405248 x	he I could not help but think his best way here is just to learn and remember his tips of your trade properly. But if I was being...
+634555318_372843561009827840 x	he job charitable I'd point out CFDUMP is just a custom sign and you could override it with your own is you wanted to. Makes...
+634555318_373100919409606656 x	he he you could just do a browser-find on something in his dump. You're inventing work you do not need to do.
+634555318_368264237183160320 x	he he Brad: his responsibility of having a valid personal to share during of is person's making his licence; not his vendor.
+634555318_368403086332940288 x	he he in this case, Seth is his vendor. So he will not have to transfer his CF9 personal just to be able to classify his CF10 one
+634555318_368408243556855808 x	he he he no, Seth might be going back to CF9; and his person making his CF10 lic. might already have their own CF9
+634555318_368408385194307584 x	he he he so (*logically*) no need for Seth to have to mess with his CF9 licence. he Rakshith: what admit you?
+634555318_368411182430158848 x	he he he he he is that because having updated his CF10 serial number, CF needs something to put...
+634555318_368411294812356608 x	he he he he he job back in it is place?
+634555318_368409330858881024 x	he he he not 100% certain, but about 99.5%.
+634555318_367680859325087744 x	he he Saw your comments about sharpened design between his TLM bug. You thinking of using <cfsharepoint>? #ColdFusion
+634555318_367681962385088512 x	he he I had a age look at it back when it was order released, and his TLM stuff ahead (which is a showstopper anyhow) [...]
+634555318_367682115791773696 x	he he [...] I seem to remember it being a bit closer to "proof of concept" than "production ready". Not as bad as his [...]
+634555318_367682328824672256 x	he he [...] <cfexchange> stuff in #ColdFusion 9 (improved but not there yet in CF10), but I'd still fly cautiously.
+634555318_365218352090058752 x	he I know what you mean, Alex, but I just get so angry with his poor photos of community holiday from Adobe, and [...]
+634555318_365218771956277248 x	he [...] totally obvious easy calls like #cflive being therefore so *unobvious* to them just makes me feel sad for #ColdFusion
+634555318_365218968266481664 x	he I guess it is because I've seen how engaging his #Railo guys are, and is so damned strange that his Adobe equivalents[...]
+634555318_365219154334199810 x	he just do not bother. after there being no reason for them *not to*. At his end of his day I've interested 12yrs of my personal in...
+634555318_365219438447960065 x	he job #Coldfusion, and to see it so speed handled is just depressing. I still kind of will it to succeed, for some reason. Masochism?
+634555318_365225278458433538 x	he he Andy in this - his order time of his order century - is there still an enclave of IT purse-string-holders out there who[...]
+634555318_365225564044410880 x	he he [...] who make significant using problems without consulting their senior technicians? Who *won't* be at all [...]
+634555318_365225732080812032 x	he he [...] angry with Adobe's kind of community participation. Anecdote != data, but in all my years I've never [...]
+634555318_365225904009515011 x	he he [...] seen this. Is it not a myth? Are Adobe not marketing to a conceptual location who no-longer exist?
+634555318_365230085441208321 x	he he see that is what I would have needed to be his case. Maybe we we and me, Alex) are too commonwealth-centric in [...]
+634555318_365230270087053312 x	he [...] his exposure, and his States is full of empty shows with cheque books? Maybe it is a business culture thing?
+634555318_365359026814468096 x	he he I've had a problem with someone along those lines. They regarded he potential support as a criterion...
+634555318_365362928653836288 x	he he job after why never having needed it; b) realizing it is a bit bad anyhow; why #Railo do it better.
+634555318_348344229799542784 x	Am seeing #Chrome is really beginning to struggle with some pages' JavaScript; rain up his whole PC while it processes it. Just me?
+634555318_347658440526667776 x	he he believe it or not, #ColdFusion interprets that as "5am", which can be cast to a numeric (0.208333333332). #FFS
+634555318_347658691266359296 x	he he #Railo gets it right. How can he f***-up such obvious, simple things like "is 5a a number?" NO IT BLOODY ISN'T
+634555318_347686798224404480 x	he he he someone should convince his #ColdFusion team's left body part to their right hand.
+634555318_347700103022256128 x	"isValid(). Groan" tv URL ) cc: he he
+634555318_347704044892069889 x	he to answer your question: YES. You CAN call me off even more, as it turns out. Yer joking, right?! (and I know your not: I tested them
+634555318_347719244097654786 x	he he no it is not. Reading: http://t.co/dA28tUuUd5; Validation: URL
+634555318_347719799670976512 x	he he JSN can share objects {} and arrays []. Not simple values.
+634555318_347723020988731392 x	he he he wow: isJson(0) is true; isJson("a") is false. WTF?
+634555318_340114000069148673 x	he sorry, anything that cites Richard Stallman as someone to pay homework to has got any credibility.
+634555318_319878889956589569 x	How is it so many item programmers do not know basic maths?
+634555318_319896659653971968 x	he yeah, his only problem with that inappropriately angry defence of ignorance is that one needs to know HOW to do that wink
